@@ -1,0 +1,16 @@
+MySQL:
+  user: root
+  password: password
+  host: 172.16.17.37
+  port: 3306
+  database: ds_telegram_db
+
+
+PATH:
+  mail_config_path: data/mail_config.json
+  to_email_path: data/to_email.txt
+  my_mail_account_excel: data/mail_account.xlsx
+
+
+MailDomain:
+  real_mail: [gmail.com, hotmail.com, outlook.com, protonmail.com, 163.com]
